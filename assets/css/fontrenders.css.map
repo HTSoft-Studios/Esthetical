@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,kDAAkD;AAElD,OAAO,CAAC,2GAAI;AAEZ,sDAAsD;AAEtD,OAAO,CAAC,6GAAI;AAEZ,gDAAgD;AAEhD,OAAO,CAAC,8EAAI",
+    "sources": [
+        "fontrenders.scss"
+    ],
+    "names": [],
+    "file": "fontrenders.css"
+}
